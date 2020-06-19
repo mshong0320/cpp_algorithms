@@ -2,6 +2,15 @@
 // coordinates are integers, abs(Xi, Yi) <= 1000000
 // question: do they form a square?
 
+/*!
+   @brief is_square - Proprietary and confidential
+   @author Minsung C. Hong
+
+   All Rights Reserved
+   Unauthorized copying of this file via any medium
+   is strictly prohibited without the written permission
+*/
+
 #include <math.h>
 #include <vector>
 #include <iostream>
